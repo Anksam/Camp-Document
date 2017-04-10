@@ -1,0 +1,2 @@
+class CampDocument < ApplicationRecord
+end
